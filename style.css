@@ -18,10 +18,10 @@
 }
 
 .container {
-    padding: 90px;
+    padding: 5%;
     position: relative;
     width: 100%;
-    max-width: 50%;
+    max-width: 900px;
     margin: 0 auto;
     text-align: center;
 }
